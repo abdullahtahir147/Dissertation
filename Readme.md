@@ -1,2 +1,2 @@
 # Dissertation: BioSignal Classification
- Everything regarding my dissertation.
+Biosignal Classification using Wavelet Transform and Convolutional Neural Networks.
